@@ -8,14 +8,7 @@
 	<link rel="stylesheet" href="<%=request.getContextPath() + "/css/sam-skin.css"%>" type="text/css">
 	<link rel="stylesheet" href="<%=request.getContextPath() + "/css/style.css"%>" type="text/css">
 	<script type="text/javascript" src="<%=request.getContextPath() + "/js/index.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/yahoo-dom-event.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/animation-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/element-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/container-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/element-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/menu-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/button-min.js"%>"></script>
-	<script type="text/javascript" src="<%=request.getContextPath() + "/js/editor-min.js"%>"></script>
+	<script type="text/javascript" src="<%=request.getContextPath() + "/js/yahoo-editor.js"%>"></script>
 	<script type="text/javascript" src="<%=request.getContextPath() + "/js/editor-init.js"%>"></script>
 </head>
 
